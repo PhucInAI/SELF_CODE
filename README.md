@@ -1,2 +1,1 @@
-# self-learning
-Self learning code
+# Code for AI modules
